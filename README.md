@@ -1,4 +1,4 @@
 TheReentrantBank
 ================
 
-Excersite to test ReentrantReadWrite Lock in Java
+Exercise to test ReentrantReadWriteLock in Java
